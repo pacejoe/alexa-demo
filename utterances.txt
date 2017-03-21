@@ -1,0 +1,2 @@
+NextSlideIntent to go to next slide
+PreviousSlideIntent to go to the previous slide
